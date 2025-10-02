@@ -1,0 +1,9 @@
+Connect to backend ec2 instance
+install git
+
+clone git https://github.com/BharathiSaladi/TravelMemory.git
+install nginx
+install dependencies
+navigate to /TravelMemory/backend and create a .env file and give MONGO_URI and PORT details
+index.js – backend server file, run this file to start backend server
+sudo node index.js
